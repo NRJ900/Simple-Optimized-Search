@@ -116,18 +116,6 @@ Alternatively, you can manually edit the **config.txt** file.
    ```
 5. Open a **Pull Request (PR)** 🚀  
 
----
-
-## 📝 License
-
-This project is licensed under the **MIT License**. Feel free to use and modify it.  
-
----
-
-## 📞 Contact
-
-📧 **Email:** [NRJ900.Official@gmail.com](mailto:NRJ900.official@gmail.com)  
-🐙 **GitHub:** [NRJ900](https://github.com/NRJ900)  
 
 ---
 
